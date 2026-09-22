@@ -1,0 +1,44 @@
+[
+    {
+        "id": "fire-alarm",
+        "title": "Fire alarm systems",
+        "tag": "DETECT",
+        "description": "Addressable and conventional systems designed around your building, from installation to testing and commissioning.",
+        "detail": "Share the building type, floor area, preferred panel and whether this is a new installation or an upgrade."
+    },
+    {
+        "id": "suppression",
+        "title": "Gas suppression",
+        "tag": "PROTECT",
+        "description": "Suppression solutions for spaces where equipment and business continuity matter. Start with a site-specific assessment.",
+        "detail": "Include room dimensions, occupancy and equipment to be protected. System selection requires an engineering assessment."
+    },
+    {
+        "id": "integration",
+        "title": "Programming & BMS",
+        "tag": "CONNECT",
+        "description": "Fire alarm programming, testing and integration with building management systems for a connected facility.",
+        "detail": "Share the panel manufacturer, exact model, firmware and integration requirements."
+    },
+    {
+        "id": "security",
+        "title": "CCTV & access control",
+        "tag": "SECURE",
+        "description": "Video surveillance and controlled access for commercial, industrial and residential properties.",
+        "detail": "Include entry points, proposed camera locations, recording needs and existing systems."
+    },
+    {
+        "id": "maintenance",
+        "title": "AMC & CMC services",
+        "tag": "MAINTAIN",
+        "description": "Preventive maintenance, system health checks and breakdown support to keep installed systems ready.",
+        "detail": "Share the equipment list, site location and required service scope for a maintenance proposal."
+    },
+    {
+        "id": "products",
+        "title": "Equipment sourcing",
+        "tag": "EQUIP",
+        "description": "Find fire and security equipment for your project. Confirm specifications and availability before ordering.",
+        "detail": "Provide the manufacturer, part number, quantity and delivery location. Pricing is confirmed in a written quotation."
+    }
+]
